@@ -1,6 +1,6 @@
-# StoleCoder
+# SteloCoder
 
-StoleCoder is a model designed for code machine translation from multiple languages (C++, C#, Java, JavaScript, PHP) to Python. It is based on StarCoder to which we have added additional parameters using LoRA and MoE methods.
+SteloCoder is a model designed for code machine translation from multiple languages (C++, C#, Java, JavaScript, PHP) to Python. It is based on StarCoder to which we have added additional parameters using LoRA and MoE methods.
 
 For technical description please refer to out paper:
 
